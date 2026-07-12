@@ -1,0 +1,6 @@
+a = (1,2,3,4,5,5)
+print(a)
+#count the occurs
+print(a.count(5))
+#check the element at particular index
+print(a.index(1))
